@@ -12,20 +12,22 @@ The collected grid cartograms are stored in a directory structure that follows t
 
 ```
 .
-└── <whole>
-    └── <parts>
-        └── <name>
-            ├── grid.csv
-            ├── ids.csv
-            └── README.md
+└── <category>
+    └── <whole>
+        └── <parts>
+            └── <name>
+                ├── grid.csv
+                ├── ids.csv
+                └── README.md
 ```
 
 Where:
 
-- <whole> is the whole entity that the cartogram represents, such as "United States", "Europe", or "World".
+- <category> is a broad category of the cartogram, such as "continents" or "countries".
+- <whole> is the whole entity that the cartogram represents, such as "us", "africa", or "world".
 - <parts> is the parts that the whole is divided into, such as "States", "Countries", or "Seats".
 - <name> is the name of the cartogram
-- `grid.csv` contains the grid cartogram as ASCII art. A filled cell is represented by an identifier. For readability, all the identifiers should have the same length and an empty cell should be contain the same number of spaces.
+- `grid.csv` contains the grid cartogram as ASCII art. A filled cell is represented by an identifier. For readability, all the identifiers should have the same length and an empty cell should be contain the same number of spaces. For countries or states, the identifier can be the ISO 3166-1 alpha-2 or alpha-3 code.
 - `ids.csv` contains the mapping between the identifiers in `grid.csv` and the actual names of the parts. The first column contains the identifier, and the second column contains the name. Additional columns can be added for metadata.
 - `README.md` contains a description of the cartogram, including the source, date, and any other relevant information.
 
