@@ -1,4 +1,4 @@
-# African countries
+# 51 African countries
 
 Published in "Malaria in Africa / Paludisme en Afrique 2000-2014" by Neil Richards, Tableau Public, Aug. 22, 2016, https://public.tableau.com/app/profile/neil.richards/viz/Malaria_14/Dashboard1.
 
