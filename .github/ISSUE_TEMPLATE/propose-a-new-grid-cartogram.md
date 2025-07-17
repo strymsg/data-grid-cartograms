@@ -7,4 +7,14 @@ assignees: ''
 
 ---
 
+## URL
+
 Reference URL: ...
+
+## Image
+
+Image: [copy/paste an image, if available]
+
+## Authors
+
+Reference the author if they are on GitHub: @...
