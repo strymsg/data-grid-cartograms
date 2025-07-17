@@ -9,12 +9,15 @@ assignees: ''
 
 ## URL
 
-Reference URL: ...
+[paste a URL below]
+
 
 ## Image
 
-Image: [copy/paste an image, if available]
+[paste an image below]
 
 ## Authors
 
-Reference the author if they are on GitHub: @...
+Reference the author if they are on GitHub:
+
+@...
