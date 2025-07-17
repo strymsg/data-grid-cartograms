@@ -41,6 +41,6 @@ Other ideas? Open an issue or a pull request and let's discuss!
 
 ## Read more on grid cartograms
 
-https://observablehq.com/@severo/grid-cartograms
+In 2020, I wrote a [review about grid cartograms](https://observablehq.com/@severo/grid-cartograms) on Observable. It contains a good list of grid cartograms for countries, continents and the world, and I discussed the terms and the uses for such a chart.
 
-https://observablehq.com/collection/@severo/grid-maps
+I also wrote some other notebooks around grid cartograms: utilities to load, convert and display the data, intents to automatically create grid cartograms, and tools to compare the accuracy of grid cartograms. You can check them ut in the [Grid cartograms Observable's collection](https://observablehq.com/collection/@severo/grid-maps).
