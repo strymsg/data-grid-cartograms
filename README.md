@@ -4,7 +4,7 @@ A curated collection of grid cartograms, in a machine readable format.
 
 > A grid cartogram is a representation barely similar to a map, that distorts the forms and areas, and assigns to every subdivision one and only one unit of a grid. They are also referred as grid map, mosaic cartogram, pseudo-Demers cartogram, square cartograph maps, geofacets, geogrid, tile grid map, or tile map. For example, the following map represents every state of the United States by exactly one square in a rectangular grid:
 
-![Example of a grid cartogram, with one cell by state](./docs/cartogram_us_example.png)
+![Example of a grid cartogram, with one cell by state](./cartogram_us_example.png)
 
 ## Structure of this collection
 
