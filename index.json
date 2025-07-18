@@ -1,0 +1,22 @@
+[
+    {
+        "whole": "continents/africa",
+        "parts": "countries",
+        "name": "2016_neil_richards"
+    },
+    {
+        "whole": "countries/bo",
+        "parts": "electoral_districts",
+        "name": "2025_elections"
+    },
+    {
+        "whole": "countries/fr",
+        "parts": "departments",
+        "name": "2016_neil_richards"
+    },
+    {
+        "whole": "countries/us",
+        "parts": "states",
+        "name": "2015_propublica"
+    }
+]

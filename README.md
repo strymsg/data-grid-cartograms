@@ -35,7 +35,7 @@ Where:
 
 You want to signal a grid cartogram should be added to the collection? Please open an [issue](https://github.com/severo/data-grid-cartograms/issues/new?template=propose-a-new-grid-cartogram.md) and paste the reference URL. We will then take care of transcribing it to the ASCII-art data format.
 
-You want to add the data for a grid cartogram? Open a [pull request](https://github.com/severo/data-grid-cartograms/pulls) where you add a new directory to the collection. Take care of following the [structure](#structure-of-this-collection) and the formats of `grid.csv` and `ids.csv`.
+You want to add the data for a grid cartogram? Open a [pull request](https://github.com/severo/data-grid-cartograms/pulls) where you add a new directory to the collection. Take care of following the [structure](#structure-of-this-collection) and the formats of `grid.csv` and `ids.csv`. Also, please add a `README.md` file with a description of the cartogram, including the source, date, and any other relevant information. Finally, update the root `index.json` file to include the new cartogram.
 
 Other ideas? Open an issue or a pull request and let's discuss!
 
