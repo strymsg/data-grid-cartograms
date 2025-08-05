@@ -17,7 +17,7 @@ The repartition of the seats by department is as follows:
 | Santa Cruz | 28      | 1                  | 14         | 13           |
 | Beni       | 8       | 1                  | 4          | 3            |
 | Pando      | 5       | 1                  | 2          | 2            |
-| **Total**  | **130** | **7**              | **63**     | **61**       |
+| **Total**  | **130** | **7**              | **63**     | **60**       |
 |            |         |                    |            |              |
 
 Whole: Bolivia
